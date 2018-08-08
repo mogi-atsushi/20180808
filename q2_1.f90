@@ -1,4 +1,4 @@
-! This source file was written by Atsushi MOGI (s-182630) for problem 2,
+! This source file was written by Atsushi MOGI (s-182630) for problem 2 (collocated grid),
 ! and was downloaded from https://github.com/mogi-atsushi/20180808/blob/master/q2_1.f90
 
 program q2
